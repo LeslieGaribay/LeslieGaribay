@@ -7,13 +7,13 @@
 </div>
 
 
-I'm a Front-End Developer who previously studied a degree in Hispanic Literature. 📚
+- I'm a Front-End Developer who previously studied a degree in Hispanic Literature. 📚
 
-My fascination with language and attention to detail led me to the world of coding and programming. 📑
+- My fascination with language and attention to detail led me to the world of coding and programming. 📑
 
-I attended a web development bootcamp at Laboratoria, where I acquired strong skills in technologies such as JavaScript, React, CSS, and HTML. 💻
+- I attended a web development bootcamp at Laboratoria, where I acquired strong skills in technologies such as JavaScript, React, CSS, and HTML. 💻
 
-I'm excited to keep growing in the field of web development and continue to be amazed by the dynamism of language. 👩🏻‍💻
+- I'm excited to keep growing in the field of web development and continue to be amazed by the dynamism of language. 👩🏻‍💻
 
 ## 🚀 Projects
 
