@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-- [🔗 Markdown Links]():
+- [🔗 Markdown Links](https://www.npmjs.com/package/md-links-lgr):
 
     I developed a command-line tool (CLI) as well as a JavaScript library that allows the user to read and analyze a Markdown-format file to check the validity of the links it contains and report some statistics, using Node.js for this purpose.
 
