@@ -7,13 +7,15 @@
 </div>
 
 
-- I'm a Front-End Developer who previously studied a degree in Hispanic Literature. 📚
+- My career as a UX Writer stands out due to an unusual background: a degree in Hispanic Literature and a Web Development Bootcamp. 📚💻
 
-- My fascination with language and attention to detail led me to the world of coding and programming. 📑
+- I realized that my love for literature and technical experience could uniquely converge in the field of UX Design. 🎨
 
-- I attended a web development bootcamp at Laboratoria, where I acquired strong skills in technologies such as JavaScript, React, CSS, and HTML. 💻
+- My training has provided me with a unique perspective on how language can influence user interaction and experience. 👩🏻‍💻
 
-- I'm excited to keep growing in the field of web development and continue to be amazed by the dynamism of language. 👩🏻‍💻
+- My meticulous approach and ability to understand user needs complement my skill in translating complex concepts into clear and accessible messages. 📝
+
+- I am excited to continue growing in the field of UX Design, exploring new ways to enhance the interaction between users and technology. 💡
 
 ## 🚀 Projects
 
