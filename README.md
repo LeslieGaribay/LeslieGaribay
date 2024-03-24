@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./tech.jpg" alt="Hi" width="300" height="300">
+  <img src="./logo_LG.png" alt="Hi" width="300" height="300">
 </div>
 
 <div align="center">
